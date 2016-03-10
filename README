@@ -1,0 +1,4 @@
+1. make/make all: Generates mythread.a library
+2. make clean: Removes .o and .a files
+3. Example use case of the library-
+	 $gcc <testcase.c> mythread.a
